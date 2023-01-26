@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Snapclima" src="./projeto/.github/preview.png" width="100%">
+  <img alt="projeto Snapclima" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
